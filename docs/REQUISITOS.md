@@ -1,4 +1,4 @@
-# 📋 Requisitos de Qualidade — Projeto Vanna
+# Requisitos de Qualidade — Projeto Vanna
 
 Este documento apresenta a especificação detalhada dos **12 Requisitos de Qualidade** definidos para a avaliação da ferramenta **[Vanna](https://github.com/vanna-ai/vanna)** (IA Generativa para conversão de Linguagem Natural em SQL), com foco no recorte de **Correção e Segurança do SQL gerado**.
 
@@ -6,21 +6,21 @@ Este documento apresenta a especificação detalhada dos **12 Requisitos de Qual
 
 ---
 
-## 📊 Resumo por Categoria
+## Resumo por Categoria
 
 | Categoria | Quantidade | Requisitos Relacionados |
 | :--- | :---: | :--- |
-| 🛡️ **Segurança** | 3 | `RQ-09`, `RQ-10`, `RQ-11` |
-| 🎯 **Adequação funcional** | 2 | `RQ-04`, `RQ-06` |
-| ⚡ **Confiabilidade** | 2 | `RQ-03`, `RQ-05` |
-| 👤 **Interação / Usabilidade** | 2 | `RQ-01`, `RQ-12` |
-| 🔒 **Privacidade** | 1 | `RQ-08` |
-| 🧱 **Robustez** | 1 | `RQ-02` |
-| 📦 **Proveniência de dados** | 1 | `RQ-07` |
+| **Segurança** | 3 | `RQ-09`, `RQ-10`, `RQ-11` |
+| **Adequação funcional** | 2 | `RQ-04`, `RQ-06` |
+| **Confiabilidade** | 2 | `RQ-03`, `RQ-05` |
+| **Interação / Usabilidade** | 2 | `RQ-01`, `RQ-12` |
+| **Privacidade** | 1 | `RQ-08` |
+| **Robustez** | 1 | `RQ-02` |
+| **Proveniência de dados** | 1 | `RQ-07` |
 
 ---
 
-## 📑 Matriz Completa de Requisitos
+## Matriz Completa de Requisitos
 
 | ID | Requisito | Categoria | Prioridade | Critério de Aceitação |
 | :---: | :--- | :---: | :---: | :--- |
@@ -39,7 +39,7 @@ Este documento apresenta a especificação detalhada dos **12 Requisitos de Qual
 
 ---
 
-## 🔗 Rastreabilidade com Casos de Teste
+## Rastreabilidade com Casos de Teste
 
 | Requisito | Casos de Teste Associados | Foco da Validação |
 | :---: | :---: | :--- |

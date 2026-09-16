@@ -1,4 +1,4 @@
-# 🎥 Vídeo da Atividade — Equipe 07 (Vanna.ai)
+# Vídeo da Atividade — Equipe 07 (Vanna.ai)
 
 Conforme os requisitos da **Seção 12** da disciplina de Qualidade de Software (AV1 - 2026.2):
 
