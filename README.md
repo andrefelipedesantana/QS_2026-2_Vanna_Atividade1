@@ -17,7 +17,7 @@
 
 ---
 
-## Entregável Principal — Planilha de Requisitos e Testes
+## Entregável — Planilha de Requisitos e Testes
 
 Conforme solicitado no item 11 dos entregáveis da AV1 (*"Planilha ou arquivo estruturado com requisitos e casos de teste"*), o arquivo binário oficial está versionado neste repositório:
 
@@ -34,7 +34,7 @@ Para visualização rápida e versionada em Markdown, consulte também os arquiv
 
 Conforme exigido pela **Seção 12** das diretrizes da atividade, a URL pública e dados do vídeo de demonstração estão indicados abaixo e no arquivo [`VIDEO.md`](./VIDEO.md):
 
-- **Link do Vídeo:** [Adicionar URL do YouTube / Drive / Loom aqui](VIDEO.md)
+- **Link do Vídeo:** [https://drive.google.com/file/d/1pwO3MfciuOM2fIcAmi3PFSyQ0K3W-ioK/view?usp=sharing](VIDEO.md)
 - **Data de Gravação:** Setembro de 2026
 - **Participantes:** Equipe 07 (todos os discentes participam com identificação individual de suas contribuições).
 
