@@ -2,8 +2,8 @@
 
 Conforme os requisitos da **Seção 12** da disciplina de Qualidade de Software (AV1 - 2026.2):
 
-- **URL do Vídeo:** [Inserir link público aqui - YouTube / Google Drive / Loom]
-- **Data da Gravação:** DD/MM/2026
+- **URL do Vídeo:** https://drive.google.com/file/d/1pwO3MfciuOM2fIcAmi3PFSyQ0K3W-ioK/view?usp=sharing
+- **Data da Gravação:** 16/09/2026
 - **Duração:** Máximo de 10 minutos
 
 ---
